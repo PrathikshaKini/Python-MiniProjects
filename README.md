@@ -3,4 +3,5 @@
 
 <br><br><br>
 
-<img src="https://github.com/PrathikshaKini/Python-MiniProjects/blob/main/Images/my%20final%20barcode.png" width="300" height="350">
+<h3>Bar code Generator</h3>
+<img src="https://github.com/PrathikshaKini/Python-MiniProjects/blob/main/Images/my%20final%20barcode.png" width="300" height="300">
